@@ -2,6 +2,8 @@
 
 The intent of this project is to reproduce an issue from quarkus-langchain4j 0.20.3
 
+Issue was reported [here](https://github.com/quarkiverse/quarkus-langchain4j/issues/984)
+
 
 ## How to reproduce the issue
 
